@@ -1,4 +1,4 @@
-/*percabangan
+//percabangan
 function htgkalori(aktivitas,waktu) {
     let kalori = 0;
 
@@ -61,7 +61,7 @@ console.log(findPalindrome(1000));
 console.log(findPalindrome(2345));
 
 console.log('===================================');
-*/
+
 
 //Array
 //A
